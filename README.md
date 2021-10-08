@@ -42,7 +42,6 @@ Describe the structure of your repository and its contents, for example:
 
 ├── README.md                           <- The top-level README for reviewers of this project, you are reading it right now. 
 
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook using python
 
 ├── https://docs.google.com/presentation/d/1vXSZ3rRP2fVh6Q-DDSGudO36s7qpEnSFuqT4npJPYxQ/edit#slide=id.gebcfdcc24a_0_605         <- PDF version of project presentation
 
