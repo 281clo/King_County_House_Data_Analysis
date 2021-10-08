@@ -41,13 +41,19 @@ Please review our full analysis in [our Jupyter Notebook](./Project.ipynb) or ou
 Describe the structure of your repository and its contents, for example:
 
 ├── README.md                           <- The top-level README for reviewers of this project, you are reading it right now. 
+
 ├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook using python
-├── DPDF_HEREpdf         <- PDF version of project presentation
+
+├── https://docs.google.com/presentation/d/1vXSZ3rRP2fVh6Q-DDSGudO36s7qpEnSFuqT4npJPYxQ/edit#slide=id.gebcfdcc24a_0_605         <- PDF version of project presentation
+
 ├── code
+
 │   ├── __init__.py                     <- .py file that signals to python these folders contain packages
-│   ├── visualizations.py               <- .py script to create finalized versions of visuals for project
-│   ├── data_preparation.py             <- .py script used to pre-process and clean data
-│   └── eda_notebook.ipynb              <- Notebook containing data exploration
+
+
+│   └── ipynb_checkpoints.ipynb              <- Notebook containing a project checkpoint
+
 ├── data                                <- Both sourced externally and generated from code
+
 └── images                              <- Both sourced externally and generated from code
 ``` 
