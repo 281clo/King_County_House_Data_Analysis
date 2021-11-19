@@ -1,6 +1,6 @@
 # Jelly's Angels Solves Housing
 
-**Authors**: Suraj, Carlos Mccrum, Lenore Perconti
+**Authors**: Seraj, Carlos Mccrum, Lenore Perconti
 
 ## Overview
 
