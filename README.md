@@ -1,3 +1,5 @@
+![](images/kingcounty.png)
+
 # Jelly's Angels Solves Housing
 
 **Authors**: Seraj, Carlos Mccrum, Lenore Perconti
@@ -15,6 +17,8 @@ In the following project, we take a look at the King County House Data and find 
 ## Data
 
 The is from King County housing in Washington and spans home sales between 2014 and 2015. This Data can be sourced here: https://www.kaggle.com/shivachandel/kc-house-data. The dataset consisted of 21 variables and 21613 observations.
+
+![Average Price](images/avgprice.png)
 
 ## Methods
 
